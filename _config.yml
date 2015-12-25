@@ -1,0 +1,28 @@
+name: Ergo
+favicon: null
+layout_spectrum: 0.6476711344439536
+typography_spectrum: 0.8964125050697476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24545200844295323
+  lightness: 0.13161426852457225
+  saturation: 0.9241768349893391
+  rhythmicContrast: 0.28214969974942505
+purpose: []
